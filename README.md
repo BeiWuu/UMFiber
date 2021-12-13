@@ -5,6 +5,8 @@
     Before running, unzip the folder "UMFiber\DataProcessing\DataSource.zip".
     
     If you want to run "UMFiber\DataProcessing\.py", please first run "UMFiber\DataProcessing\logitistic.py" to generate the dataset.
+    
+    All contribution of this code derives from the Research Group of Huanyang Chen.
 
 2. Data processing
     
