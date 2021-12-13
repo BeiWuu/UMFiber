@@ -1,6 +1,6 @@
 1. Noting
     We recommend using python3.
-    Before running, unzip the folder "UMFiber\DataProcessing\DataSource.zip" and "UMFiber\DataProcessing\power_intensity.zip".
+    Before running, unzip the folder "UMFiber\DataProcessing\DataSource.zip".
     If you want to run "UMFiber\DataProcessing\.py", please first run "UMFiber\DataProcessing\logitistic.py" to generate the dataset.
 
 2. Data processing
